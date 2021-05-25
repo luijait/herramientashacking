@@ -1,0 +1,4 @@
+index.html
+index.php
+robots.txt
+sitemap.xml
